@@ -4,6 +4,8 @@
 
 OpenEvent is the open-source AI event discovery platform that powers your next favourite day out.
 
+More importantly, OpenEvent is a human initiative to put smiles on faces.
+
 It's about about building and using free, open software to get you off your sofa, lose yourself in the mosh pit, spend a couple of bob at the bar and merch table, and have a lovely time supporting grass roots venues, artists, and people.
 
 OpenEvent is free as in speech, and free as in beer.
